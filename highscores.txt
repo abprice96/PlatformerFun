@@ -1,0 +1,10 @@
+Jill 1200
+Bob 1100
+Jane 1000
+Sue 900
+Carl 800
+Joe 500
+Suzy 400
+Fred 300
+Louis 200
+Jake 100
